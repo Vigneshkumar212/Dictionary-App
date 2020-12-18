@@ -14,7 +14,6 @@ export default class App extends React.Component {
   }
 }
 
-
 var AppNavigator = createSwitchNavigator({
   Page : Page,
   Home : Home,
